@@ -24,5 +24,7 @@ RUN pip install django==1.3\
  python-memcached==1.53\
  django-tagging==0.3.1\
  twisted==11.1.0\
- txAMQP==0.6.2
+ txAMQP==0.6.2\
+ simplejson==3.7.3\
+ pystache==0.5.4
 
